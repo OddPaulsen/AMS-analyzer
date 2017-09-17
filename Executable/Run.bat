@@ -1,0 +1,1 @@
+java -jar uber-AMSreader-1.0-SNAPSHOT.jar
